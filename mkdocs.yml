@@ -1,0 +1,8 @@
+site_name: issue.dev
+repo_url: https://github.com/textualize/label.dev
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
