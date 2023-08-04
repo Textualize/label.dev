@@ -2,10 +2,13 @@
 
 This site adds additional context to GitHub Issue labels.
 
-It is intended to be a reference for maintainers of Open Source projects, and is itself an Open Source project which is inviting contributors.
-
 The intention here is to be descriptive regarding the Open Source development process, not *prescriptive*.
 In other words it is an attempt to document how developer generally apply these labels, and not attempt to impose some kind of standard.
+
+
+!!! note
+
+    This site is very much a work in progress at this time. Visit the [label.dev repository](https://github.com/Textualize/label.dev) if you would like to contribute content.
 
 --- 
 

@@ -1,3 +1,9 @@
+---
+description: "The XY Problem and how to avoid it!"
+
+
+---
+
 # XY Problem
 
 The XY Problem has wasted countless time on Github issues and technical support channels since their inception &mdash; and it likely existed in some form even before the computing era.
@@ -31,3 +37,8 @@ It doesn't need to be detailed: one or two sentences is generally enough.
 It is not always easy to recognize the XY problem, but if there does seem to be a disconnect between you and the developer, it is very often this issue.
 If the developer wants to do something with your code you consider out of scope, you may want to inquire why the developer considered it a requirement.
 It may be a genuine use case you hadn't considered or it may be the XY problem. But you won't know until you understand the developer's thought processes.
+
+## Links
+
+- [XY Problem on Wikipedia](https://en.wikipedia.org/wiki/XY_problem)
+- [xyproblem.info](https://xyproblem.info/)

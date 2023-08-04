@@ -1,13 +1,23 @@
 site_name: label.dev
 repo_url: https://github.com/textualize/label.dev
+# custom_dir: overrides
 theme:
   name: material
   features:
     - navigation.expand
     - navigation.path
     - navigation.indexes
+    - navigation.tabs
+    - navigation.sections
+  palette:
+    scheme: slate
+plugins:
+  - social
 markdown_extensions:
   - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 docs_dir: docs
 nav:
   - Labels:
@@ -21,4 +31,5 @@ nav:
       - "question.md"
       - "wontfix.md"
   - Articles:
+      - "./articles/closed-issue.md"
       - "./articles/xy-problem.md"
