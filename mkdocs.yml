@@ -6,3 +6,19 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.indexes
+markdown_extensions:
+  - footnotes
+docs_dir: docs
+nav:
+  - Labels:
+      - "index.md"
+      - "bug.md"
+      - "documentation.md"
+      - "duplicate.md"
+      - "enhancement.md"
+      - "good-first-issue.md"
+      - "help-wanted.md"
+      - "question.md"
+      - "wontfix.md"
+  - Articles:
+      - "./articles/xy-problem.md"
