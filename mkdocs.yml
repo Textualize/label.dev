@@ -33,3 +33,7 @@ nav:
   - Articles:
       - "./articles/closed-issue.md"
       - "./articles/xy-problem.md"
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/@textualize

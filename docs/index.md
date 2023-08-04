@@ -10,6 +10,3 @@ In other words it is an attempt to document how developer generally apply these 
 
     This site is very much a work in progress at this time. Visit the [label.dev repository](https://github.com/Textualize/label.dev) if you would like to contribute content.
 
---- 
-
-Provided by [textualize.io](https://www.textualize.io)
