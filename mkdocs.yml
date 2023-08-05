@@ -32,6 +32,7 @@ nav:
       - "wontfix.md"
   - Articles:
       - "./articles/closed-issue.md"
+      - "./articles/minimal-reproducible-example.md"
       - "./articles/xy-problem.md"
 extra:
   social:
