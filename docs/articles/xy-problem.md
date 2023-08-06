@@ -42,3 +42,4 @@ It may be a genuine use case you hadn't considered or it may be the XY problem. 
 
 - [XY Problem on Wikipedia](https://en.wikipedia.org/wiki/XY_problem)
 - [xyproblem.info](https://xyproblem.info/)
+- [XY Problem on StackExchange](https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem)
