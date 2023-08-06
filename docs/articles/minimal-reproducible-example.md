@@ -30,3 +30,7 @@ Perhaps the problem occurs only under certain conditions or with data that you c
 Or it could be that it is very difficult to narrow down the problematic code.
 
 Maintainers will understand this. So don't worry if you can produce a MRE.
+
+## Links
+
+- [Craft Minimal Bug Reports](https://matthewrocklin.com/minimal-bug-reports.html) by Matthew Rocklin
