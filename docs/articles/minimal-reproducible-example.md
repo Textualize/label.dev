@@ -34,3 +34,4 @@ Maintainers will understand this. So don't worry if you can produce a MRE.
 ## Links
 
 - [Craft Minimal Bug Reports](https://matthewrocklin.com/minimal-bug-reports.html) by Matthew Rocklin
+- [The Short, Self Contained, Correct Example](http://www.sscce.org/)
